@@ -1,9 +1,16 @@
 # IBM_model_1
 Based on statistics, the IBM_model_1 is used to evaluate and compare the quality of language alignment
-data from WMT
+data from WMT：http://www.statmt.org/wmt
+
+
+
 link：https://pan.baidu.com/s/14SV1dU3cZ6o4Fjo-rxIBPQ 
 code：73lc
 
+
+
+
+Operation process：
 1.open the file and download data
 2.cmd：pip install spacy -i https://pypi.tuna.tsinghua.edu.cn/simple
        pip install en_core_web_sm-3.5.0.tar.gz
